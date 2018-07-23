@@ -1,0 +1,22 @@
+﻿  WhiteRunDetection.cpp
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(96): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(131): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(132): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(136): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(137): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(249): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(376): warning C4244: 'argument' : conversion de 'int' en 'const float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(377): warning C4244: 'argument' : conversion de 'int' en 'const float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(410): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(524): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(525): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(532): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(533): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(681): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(701): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(711): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(712): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(735): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\paul\source\repos\imageskewandorientationwithwhiterun\whiterundetection.cpp(697): warning C4101: 'temp' : variable locale non référencée
+  ImageSkewAndOrientationWithWhiteRun.vcxproj -> C:\Users\paul\source\repos\tesseract\x64\Debug\ImageSkewAndOrientationWithWhiteRun.exe
